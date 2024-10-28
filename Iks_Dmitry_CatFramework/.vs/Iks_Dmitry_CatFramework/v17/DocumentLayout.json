@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Asus\\Desktop\\P\\ItHub\\3 course\\C#\\Projects\\Iks_Dmitry_CatFramework\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C4DFAE2A-4950-43D1-AF6F-97C1CE7B9072}|Iks_Dmitry_CatFramework\\Iks_Dmitry_CatFramework.csproj|c:\\users\\asus\\desktop\\p\\ithub\\3 course\\c#\\projects\\iks_dmitry_catframework\\iks_dmitry_catframework\\cutecat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4DFAE2A-4950-43D1-AF6F-97C1CE7B9072}|Iks_Dmitry_CatFramework\\Iks_Dmitry_CatFramework.csproj|solutionrelative:iks_dmitry_catframework\\cutecat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73C21C25-EC00-4BD1-8BFB-A94E02737ED0}|Iks_Dmitry_CatApplication\\Iks_Dmitry_CatApplication.csproj|c:\\users\\asus\\desktop\\p\\ithub\\3 course\\c#\\projects\\iks_dmitry_catframework\\iks_dmitry_catapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73C21C25-EC00-4BD1-8BFB-A94E02737ED0}|Iks_Dmitry_CatApplication\\Iks_Dmitry_CatApplication.csproj|solutionrelative:iks_dmitry_catapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4DFAE2A-4950-43D1-AF6F-97C1CE7B9072}|Iks_Dmitry_CatFramework\\Iks_Dmitry_CatFramework.csproj|c:\\users\\asus\\desktop\\p\\ithub\\3 course\\c#\\projects\\iks_dmitry_catframework\\iks_dmitry_catframework\\catexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4DFAE2A-4950-43D1-AF6F-97C1CE7B9072}|Iks_Dmitry_CatFramework\\Iks_Dmitry_CatFramework.csproj|solutionrelative:iks_dmitry_catframework\\catexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4DFAE2A-4950-43D1-AF6F-97C1CE7B9072}|Iks_Dmitry_CatFramework\\Iks_Dmitry_CatFramework.csproj|c:\\users\\asus\\desktop\\p\\ithub\\3 course\\c#\\projects\\iks_dmitry_catframework\\iks_dmitry_catframework\\tiger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4DFAE2A-4950-43D1-AF6F-97C1CE7B9072}|Iks_Dmitry_CatFramework\\Iks_Dmitry_CatFramework.csproj|solutionrelative:iks_dmitry_catframework\\tiger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4DFAE2A-4950-43D1-AF6F-97C1CE7B9072}|Iks_Dmitry_CatFramework\\Iks_Dmitry_CatFramework.csproj|c:\\users\\asus\\desktop\\p\\ithub\\3 course\\c#\\projects\\iks_dmitry_catframework\\iks_dmitry_catframework\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4DFAE2A-4950-43D1-AF6F-97C1CE7B9072}|Iks_Dmitry_CatFramework\\Iks_Dmitry_CatFramework.csproj|solutionrelative:iks_dmitry_catframework\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\P\\ItHub\\3 course\\C#\\Projects\\Iks_Dmitry_CatFramework\\Iks_Dmitry_CatApplication\\Program.cs",
+              "RelativeDocumentMoniker": "Iks_Dmitry_CatApplication\\Program.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\P\\ItHub\\3 course\\C#\\Projects\\Iks_Dmitry_CatFramework\\Iks_Dmitry_CatApplication\\Program.cs",
+              "RelativeToolTip": "Iks_Dmitry_CatApplication\\Program.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwDoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T17:23:13.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CuteCat.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\P\\ItHub\\3 course\\C#\\Projects\\Iks_Dmitry_CatFramework\\Iks_Dmitry_CatFramework\\CuteCat.cs",
+              "RelativeDocumentMoniker": "Iks_Dmitry_CatFramework\\CuteCat.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\P\\ItHub\\3 course\\C#\\Projects\\Iks_Dmitry_CatFramework\\Iks_Dmitry_CatFramework\\CuteCat.cs",
+              "RelativeToolTip": "Iks_Dmitry_CatFramework\\CuteCat.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAwCoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T17:00:34.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Tiger.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\P\\ItHub\\3 course\\C#\\Projects\\Iks_Dmitry_CatFramework\\Iks_Dmitry_CatFramework\\Tiger.cs",
+              "RelativeDocumentMoniker": "Iks_Dmitry_CatFramework\\Tiger.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\P\\ItHub\\3 course\\C#\\Projects\\Iks_Dmitry_CatFramework\\Iks_Dmitry_CatFramework\\Tiger.cs",
+              "RelativeToolTip": "Iks_Dmitry_CatFramework\\Tiger.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T15:31:50.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Cat.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\P\\ItHub\\3 course\\C#\\Projects\\Iks_Dmitry_CatFramework\\Iks_Dmitry_CatFramework\\Cat.cs",
+              "RelativeDocumentMoniker": "Iks_Dmitry_CatFramework\\Cat.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\P\\ItHub\\3 course\\C#\\Projects\\Iks_Dmitry_CatFramework\\Iks_Dmitry_CatFramework\\Cat.cs",
+              "RelativeToolTip": "Iks_Dmitry_CatFramework\\Cat.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T14:58:14.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CatException.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\P\\ItHub\\3 course\\C#\\Projects\\Iks_Dmitry_CatFramework\\Iks_Dmitry_CatFramework\\CatException.cs",
+              "RelativeDocumentMoniker": "Iks_Dmitry_CatFramework\\CatException.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\P\\ItHub\\3 course\\C#\\Projects\\Iks_Dmitry_CatFramework\\Iks_Dmitry_CatFramework\\CatException.cs",
+              "RelativeToolTip": "Iks_Dmitry_CatFramework\\CatException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T14:26:37.798Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

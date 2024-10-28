@@ -1,0 +1,11 @@
+C:\Users\Asus\Desktop\P\ItHub\3 course\C#\Projects\Iks_Dmitry_CatFramework\Iks_Dmitry_CatFramework\bin\Debug\net8.0\Iks_Dmitry_CatFramework.deps.json
+C:\Users\Asus\Desktop\P\ItHub\3 course\C#\Projects\Iks_Dmitry_CatFramework\Iks_Dmitry_CatFramework\bin\Debug\net8.0\Iks_Dmitry_CatFramework.dll
+C:\Users\Asus\Desktop\P\ItHub\3 course\C#\Projects\Iks_Dmitry_CatFramework\Iks_Dmitry_CatFramework\bin\Debug\net8.0\Iks_Dmitry_CatFramework.pdb
+C:\Users\Asus\Desktop\P\ItHub\3 course\C#\Projects\Iks_Dmitry_CatFramework\Iks_Dmitry_CatFramework\obj\Debug\net8.0\Iks_Dmitry_CatFramework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\P\ItHub\3 course\C#\Projects\Iks_Dmitry_CatFramework\Iks_Dmitry_CatFramework\obj\Debug\net8.0\Iks_Dmitry_CatFramework.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\P\ItHub\3 course\C#\Projects\Iks_Dmitry_CatFramework\Iks_Dmitry_CatFramework\obj\Debug\net8.0\Iks_Dmitry_CatFramework.AssemblyInfo.cs
+C:\Users\Asus\Desktop\P\ItHub\3 course\C#\Projects\Iks_Dmitry_CatFramework\Iks_Dmitry_CatFramework\obj\Debug\net8.0\Iks_Dmitry_CatFramework.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\P\ItHub\3 course\C#\Projects\Iks_Dmitry_CatFramework\Iks_Dmitry_CatFramework\obj\Debug\net8.0\Iks_Dmitry_CatFramework.dll
+C:\Users\Asus\Desktop\P\ItHub\3 course\C#\Projects\Iks_Dmitry_CatFramework\Iks_Dmitry_CatFramework\obj\Debug\net8.0\refint\Iks_Dmitry_CatFramework.dll
+C:\Users\Asus\Desktop\P\ItHub\3 course\C#\Projects\Iks_Dmitry_CatFramework\Iks_Dmitry_CatFramework\obj\Debug\net8.0\Iks_Dmitry_CatFramework.pdb
+C:\Users\Asus\Desktop\P\ItHub\3 course\C#\Projects\Iks_Dmitry_CatFramework\Iks_Dmitry_CatFramework\obj\Debug\net8.0\ref\Iks_Dmitry_CatFramework.dll
